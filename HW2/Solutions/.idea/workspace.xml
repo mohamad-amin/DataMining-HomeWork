@@ -11,11 +11,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="q7.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="q7.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/q7.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="3" />
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="q8.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/q8.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -29,10 +38,21 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>plotter</find>
+      <find>&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>plot</replace>
+      <replace>'</replace>
+    </replaceStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/q7.ipynb" />
+        <option value="$PROJECT_DIR$/q8.ipynb" />
       </list>
     </option>
   </component>
@@ -111,7 +131,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" weight="0.32983682" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32983682" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32983682" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -131,7 +151,14 @@
     <entry file="file://$PROJECT_DIR$/q7.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="3" />
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q8.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
