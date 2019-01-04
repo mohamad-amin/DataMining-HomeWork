@@ -16,5 +16,4 @@ transactions = [
 solver = APriori(transactions)
 frequents = solver.get_frequent_item_sets(.4)
 rules = solver.get_extracted_rules(.1, frequent_item_set=frequents)
-# print('\n'.join(map(str, frequents[2])))
 print('\n'.join(map(str, rules)))

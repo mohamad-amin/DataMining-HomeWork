@@ -29,7 +29,7 @@ class AssociationRule:
         elif self.rule_left is None:
             return False
         else:
-            return o.rule_left == self.rule_left and o.rule_right == self.rule_left and o.item_set == self.item_set
+            return o.rule_left == self.rule_left and o.rule_right == self.rule_right and o.item_set == self.item_set
 
     def __str__(self) -> str:
         if self.rule_left is None:
