@@ -1,4 +1,4 @@
-from association_rule import AssociationRule
+from implementation.association_rule import AssociationRule
 
 
 class APriori:

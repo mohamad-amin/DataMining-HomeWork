@@ -1,4 +1,4 @@
-from apriori import APriori
+from implementation.apriori import APriori
 
 transactions = [
     {'A', 'B', 'D', 'G'},
